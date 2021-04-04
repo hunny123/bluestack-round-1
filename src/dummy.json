@@ -12,7 +12,7 @@
       ],
       "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
       "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
-      "image_url": "images/bitmap.png"
+      "image_url": "images/Bitmap.png"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       ],
       "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
       "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
-      "image_url": "images/bitmap-1.png"
+      "image_url": "images/Bitmap-1.png"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       ],
       "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
       "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
-      "image_url": "images/bitmap-2.png"
+      "image_url": "images/Bitmap-2.png"
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       ],
       "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
       "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
-      "image_url": "images/bitmap-3.png"
+      "image_url": "images/Bitmap-3.png"
     }
   ]
 }

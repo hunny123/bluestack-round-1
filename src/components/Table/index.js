@@ -23,14 +23,18 @@ const { t } = useTranslation('', { i18n:i18n1 });
           <th>{t('ACTIONS')}</th>
         </tr>
       </thead>
-      <tbody>
-        {data && data.map(item=>
+     <tbody>
+        {data  && data.length>0 && data.map(item=>
             <tr key={item.id}>
               <td><Date createdOn={item.createdOn}/></td>
               <td><CampaignCard {...item}/></td>
               <td><ViewColumn {...item}></ViewColumn></td>
               <td><Action {...item} onChange={scheduleAgain}/></td>
             </tr>)
+        }
+        {
+          data && data.length===0 && 
+           <h4 className=" p-4"> No events</h4> 
         }
      </tbody>
  </Table>
