@@ -1,0 +1,21 @@
+.schedule {
+  width: 300px !important;
+  color: blue;
+}
+.schedule p {
+  cursor: pointer;
+}
+.ok {
+  background-color: lightgray;
+  border: none;
+  border-radius: 2px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 3px;
+  width: 30px;
+}
+.input {
+  background-color: lightgray;
+  border: none;
+  border-radius: 2px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,24 @@
+.active {
+  text-decoration: none !important;
+}
+
+.nav-link {
+  text-decoration: none !important;
+  color: black;
+
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+.nav-link:hover {
+  color: #83a515;
+}
+.tabs {
+  border-bottom: 1px solid #f1f1f4;
+}
+
+.activeTab {
+  color: #83a515 !important;
+  border-bottom: 3px solid #83a515;
+}

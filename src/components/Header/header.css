@@ -1,0 +1,9 @@
+.headerWrapper {
+  height: 70px;
+  width: 100%;
+  background-color: #1f2640;
+}
+.header {
+  margin: 0rem 10rem;
+  padding: 10px 0;
+}

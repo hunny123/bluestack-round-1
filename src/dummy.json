@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Test Whatsapp",
+      "region": "US",
+      "createdOn": 1559806715124,
+      "price": [
+        { "title": "One Month", "value": "200" },
+        { "title": "6 month", "value": "300" },
+        { "title": "One year", "value": "500" }
+      ],
+      "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "image_url": "images/bitmap.png"
+    },
+    {
+      "id": 2,
+      "name": "Super Jewels Quest",
+      "region": "CA, FR",
+      "createdOn": 1559806715124,
+      "price": [
+        { "title": "One Month", "value": "200" },
+        { "title": "6 month", "value": "300" },
+        { "title": "One year", "value": "500" }
+      ],
+      "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "image_url": "images/bitmap-1.png"
+    },
+    {
+      "id": 3,
+      "name": "Mole Slayer",
+      "region": "FR",
+      "createdOn": 1559806711124,
+      "price": [
+        { "title": "One Month", "value": "200" },
+        { "title": "6 month", "value": "300" },
+        { "title": "One year", "value": "500" }
+      ],
+      "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "image_url": "images/bitmap-2.png"
+    },
+    {
+      "id": 4,
+      "name": "Mancala Mix",
+      "region": "JP",
+      "createdOn": 1559806680124,
+      "price": [
+        { "title": "One Month", "value": "200" },
+        { "title": "6 month", "value": "300" },
+        { "title": "One year", "value": "500" }
+      ],
+      "csv": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "report": "http://cdn3.bluestacks.com/Interviews/Front-end/Front-End.zip",
+      "image_url": "images/bitmap-3.png"
+    }
+  ]
+}
